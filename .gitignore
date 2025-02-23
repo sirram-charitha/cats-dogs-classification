@@ -1,0 +1,6 @@
+dataset/ 
+dogcat_model.h5 
+venv/ 
+__pycache__/ 
+*.pyc 
+*.pyo 
